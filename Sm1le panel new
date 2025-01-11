@@ -265,7 +265,7 @@ end)
  
 bee.Name = "bee"
 bee.Parent = Frame
-bee.BackgroundColor3 = Color3.new(1, 1, 0)
+bee.BackgroundColor3 = Color3.new(255, 255, 255)
 bee.BorderSizePixel = 3
 bee.Position = UDim2.new(0.283756077, 0, 0.470896304, 0)
 bee.Size = UDim2.new(0, 106, 0, 50)
@@ -321,7 +321,7 @@ end)
  
 murder.Name = "murder"
 murder.Parent = Frame
-murder.BackgroundColor3 = Color3.new(0.333333, 0, 0)
+murder.BackgroundColor3 = Color3.new(255, 255, 255)
 murder.BorderSizePixel = 3
 murder.Position = UDim2.new(0.0360329449, 0, 0.470896304, 0)
 murder.Size = UDim2.new(0, 106, 0, 50)
@@ -384,7 +384,7 @@ end)
  
 booga.Name = "booga"
 booga.Parent = Frame
-booga.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+booga.BackgroundColor3 = Color3.new(255, 255, 255)
 booga.BorderSizePixel = 3
 booga.Position = UDim2.new(0.283756077, 0, 0.703338981, 0)
 booga.Size = UDim2.new(0, 106, 0, 50)
